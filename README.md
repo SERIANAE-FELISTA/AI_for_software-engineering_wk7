@@ -96,7 +96,7 @@ To mitigate bias, we applied a reweighing preprocessing technique from IBM’s A
 
 Regular bias audits should be conducted whenever the dataset is updated or the model is retrained. Transparency with stakeholders and monitoring for model drift are crucial to ensure fairness over time. AI systems deployed in high-stakes areas like criminal justice must combine algorithmic mitigation with human oversight to prevent unfair outcomes and ensure accountability.
 
-**PART 4: ETHICAL RREFLECTION**
+**PART 4: ETHICAL REFLECTION**
 
 **Ethical Reflection**
 
